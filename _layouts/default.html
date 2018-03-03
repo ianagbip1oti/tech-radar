@@ -10,8 +10,8 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <link href="/assets/css/style.css" rel="stylesheet" />
-  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+  <link href="{{ "/assets/css/style.css" | prepend: site.url }}" rel="stylesheet" />
+  <link href="{{ "/assets/css/colors-dark.css" | prepend: site.url }} rel="stylesheet" />
 
 </head>
 
@@ -55,13 +55,13 @@
 
 
   <footer id="footer">
-    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
+    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} Princess Lana. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="http://www.webmaster-source.com">Matt Harzewski</a></p>
   </footer>
 
 
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+  <script src="{{ "/assets/js/jquery.mobilemenu.min.js" | prepend: site.url }}"></script>
 
   <script>
     $(document).ready(function(){
