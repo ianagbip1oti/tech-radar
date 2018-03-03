@@ -33,4 +33,4 @@ Starting your project with a monolith is usually preferable to [microservices](#
 It is easier to deploy and develop at a small scale in a single code base.
 A monolith can always migrate towards microservices at a later date.
 With discipline you can even achieve the rare
-[magestic monolity](https://m.signalvnoise.com/the-majestic-monolith-29166d022228).
+[magestic monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228).
