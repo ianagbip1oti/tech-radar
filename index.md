@@ -14,13 +14,12 @@ This may be a language, a tool, a framework, or anything else I find interesting
   * **Eh.**
     You may want to use this technology.
     Perhaps you should trial it or research some more before deciding whether
-    it's a fit for you goals.
+    it's a fit for your goals.
   * **Nah.**
     Avoid it. There are better ways to do what you want to use it for.
     
 If there's a technology you think I should include on my radar,
-or one whose rating I should reconsider,
-please go ahead and submit an issue [here](https://github.com/ianagbip1oti/tech-radar/issues)
-
-I can also be reached on Discord, as Princess Lana at
+or one whose rating I should reconsider then you should do one of the following:
+  * Find me on Discord as Princess Lana at
 [The Programmer's Hangout](https://discord.gg/programming)
+  * Submit an issue [here](https://github.com/ianagbip1oti/tech-radar/issues)
