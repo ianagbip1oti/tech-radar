@@ -1,9 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Princess Lana's Tech Rader
+url: https://ianagbip1oti.github.io/tech-radar
+description: Opinions on technology
 
-permalink: /:year/:month/:day/:title/
-paginate: 10
-
-gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: 
+  - README.md
