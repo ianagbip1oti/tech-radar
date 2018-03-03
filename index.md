@@ -11,7 +11,7 @@ This may be a language, a tool, a framework, or anything else I find interesting
 ## My Ratings
 
   * **Yeah.** You should go ahead and use this technology. I think it's great.
-  * **Eh,**
+  * **Eh.**
     You may want to use this technology.
     Perhaps you should trial it or research some more before deciding whether
     it's a fit for you goals.
