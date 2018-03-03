@@ -22,4 +22,5 @@ If there's a technology you think I should include on my radar,
 or one whose rating I should reconsider,
 please go ahead and submit an issue [here](https://github.com/ianagbip1oti/tech-radar/issues)
 
-I can also be reached on Discord, as Princess Lana at https://discord.gg/programming
+I can also be reached on Discord, as Princess Lana at
+[The Programmer's Hangout](https://discord.gg/programming)
