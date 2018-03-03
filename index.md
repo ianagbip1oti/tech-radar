@@ -18,7 +18,7 @@ This may be a language, a tool, a framework, or anything else I find interesting
   * **Nah.**
     Avoid it. There are better ways to do what you want to use it for.
     
- ## Requests
+## Requests
  
 If there's a technology you think I should include on my radar,
 or one whose rating I should reconsider then you should do one of the following:
