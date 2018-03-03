@@ -1,5 +1,6 @@
 name: Princess Lana's Tech Rader
-url: https://ianagbip1oti.github.io/tech-radar
+url: https://ianagbip1oti.github.io
+baseurl: /tech-radar
 description: Opinions on technology
 
 exclude: 
